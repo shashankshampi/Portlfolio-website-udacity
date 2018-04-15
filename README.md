@@ -1,3 +1,25 @@
-# Portlfolio-website-udacity
-  The first project of the Udacity Front-End Web Developer Nanodegree program called "Build a Portfolio Site". Project Description  You will be provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of your Nanodegree program.
-  
+# Build A Portfolio Website
+
+**Summary:**
+
+This webpage was created specifically for [Udacity's Front End Developer Developer Nanodegree](https://www.udacity.com).
+
+**The application offers the following features:**
+
+* Creating a web page that is replicated for the project requirement.
+* Bold/Italiacs
+* Image Views
+
+**Technologies Used In Application:**
+
+* HTML
+* CSS
+
+**Testing The Web Page:**
+
+* Download the project to your computer.
+* Right click and open with Google Chrome browser.
+
+**Closing:**
+
+In conclusion, I have learned a lot by working on this project. I am confident that I mastered HTML, as well as CSS and am able to successfully create web pages using different features.
