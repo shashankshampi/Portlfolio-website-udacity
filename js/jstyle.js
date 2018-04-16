@@ -1,6 +1,3 @@
-window.addEventListener("load", function(event) {
- console.log("All resources finished loading!");
- 
 
   var slideIndex = 1;
   showSlides(slideIndex);
@@ -28,4 +25,3 @@ window.addEventListener("load", function(event) {
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
   }
- });
